@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\dto\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\dto\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\dto\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\dto\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\dto\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\dto\\bookdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\bookverseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\bookverseapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\migrations\\20261021121643_seeding data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\migrations\\20261021121643_seeding data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|c:\\users\\dhars\\onedrive\\desktop\\.net\\bookverseapi\\bookverseapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC844629-3350-402A-80A7-D7C46209C9F2}|BookVerseAPI\\BookVerseAPI.csproj|solutionrelative:bookverseapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookVerseAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:20:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BookVerseAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:03:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDtos.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\OrderDtos.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\DTO\\OrderDtos.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\OrderDtos.cs",
+              "RelativeToolTip": "BookVerseAPI\\DTO\\OrderDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:24:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookVerseAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:05:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\DTO\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\AuthDtos.cs",
+              "RelativeToolTip": "BookVerseAPI\\DTO\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:06:59.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookVerseAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\BookVerseAPI.csproj",
+              "RelativeDocumentMoniker": "BookVerseAPI\\BookVerseAPI.csproj",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\BookVerseAPI.csproj",
+              "RelativeToolTip": "BookVerseAPI\\BookVerseAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-22T10:23:16.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BookVerseAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:11:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\Book.cs",
+              "RelativeToolTip": "BookVerseAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:21:26.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDtos.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\BookDtos.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\DTO\\BookDtos.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\DTO\\BookDtos.cs",
+              "RelativeToolTip": "BookVerseAPI\\DTO\\BookDtos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T10:24:04.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Program.cs",
+              "RelativeToolTip": "BookVerseAPI\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAF0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T11:50:08.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "BookVerseAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T11:11:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261021121643_Seeding Data.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Migrations\\20261021121643_Seeding Data.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Migrations\\20261021121643_Seeding Data.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Migrations\\20261021121643_Seeding Data.cs",
+              "RelativeToolTip": "BookVerseAPI\\Migrations\\20261021121643_Seeding Data.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T12:16:43.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Data\\SeedData.cs",
+              "RelativeToolTip": "BookVerseAPI\\Data\\SeedData.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T12:11:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "BookVerseAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:15:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookVerseAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:49:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BookVerseAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dhars\\OneDrive\\Desktop\\.net\\BookVerseAPI\\BookVerseAPI\\Models\\Order.cs",
+              "RelativeToolTip": "BookVerseAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:31:33.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
